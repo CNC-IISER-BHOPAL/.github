@@ -1,5 +1,6 @@
 # Computing and Networking Council - IISER Bhopal
 
+
 Welcome to the official GitHub organization of the Computing and Networking Council (CNC) at IISER Bhopal. This space is dedicated to fostering collaboration, sharing resources, and driving innovation among the students, faculty, and members of IISER Bhopal.
 
 ## 📖 About Us
