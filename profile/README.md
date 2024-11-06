@@ -17,14 +17,22 @@ Explore some of the key websites and platforms associated with IISER Bhopal:
   The central platform for student-related activities and information.  
   [Visit the SAC website](https://students.iiserb.ac.in)
 
+- **Computing and Networking Council (CNC) Website**  
+  The official platform about CNC and their clubs.  
+  [Visit the CNC website](https://students.iiserb.ac.in/cnc)
+
 
 ## 🚀 Projects and Collaborations
 
 We host and manage various open-source projects that reflect the spirit of collaboration and innovation at IISER Bhopal. Here are some of our active projects:
 
-- **Student Activity Council (SAC) Website**  
-  The official website for student activities at IISER Bhopal.  
+- **Student Activity Council (SAC) Website **  
+  The official repository for the SAC Website.  
   [Repository Link](https://github.com/CNC-IISER-BHOPAL/SAC)
+
+- **Computing and Networking Council (CNC) Website**  
+  The official repository for the CNC Website.  
+  [Repository Link](https://github.com/CNC-IISER-BHOPAL/CNC)
 
 
 ## 🤝 Contribute
